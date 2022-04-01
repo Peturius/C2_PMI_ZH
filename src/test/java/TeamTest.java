@@ -4,7 +4,7 @@ import static org.junit.Assert.assertEquals;
 
 public class TeamTest {
 
-    /*
+
     @Test
     public void testNewMember() {
         Team team = new Team();
@@ -56,5 +56,5 @@ public class TeamTest {
 
         assertEquals(member1 + " " + position2 + "\r\n" + member2 + " " + position1, positionChanges.getMembers());
     }
-    */
+
 }
